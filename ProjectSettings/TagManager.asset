@@ -3,7 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Waypoint
+  - AutonomousVehicle
+  - Torque
+  - StopSign
+  - SpeedSign
+  - Intersection
+  - Lane1
+  - Lane2
+  - TrafficScreen
+  - ParkingSlot
+  - FL
+  - FR
+  - RL
+  - RR
+  - Cars
+  - Obstacles
+  - MyPlayer
+  - Pedestrian
   layers:
   - Default
   - TransparentFX
@@ -13,13 +31,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - RCC
+  - PP
+  - AutonomousVehicle
+  - StopSign
+  - Intersection
+  - Minimap
+  - Obstacles
   - 
   - 
   - 
